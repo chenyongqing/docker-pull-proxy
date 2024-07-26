@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.15 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.6.15
+langgenius/dify-web:0.6.15 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-web:0.6.15
