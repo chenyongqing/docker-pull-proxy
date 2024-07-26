@@ -1,1 +1,1 @@
-python:3.10-slim-bookworm registry.cn-hangzhou.aliyuncs.com/chenyq2024/python:3.10-slim-bookworm
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/chenyq2024/postgres:15-alpine
