@@ -1,1 +1,1 @@
-chivalry1314/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/chenyongqing/cyq2024/dify-cyq-api:202407261133
+chivalry1314/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-cyq-api:202407081133
