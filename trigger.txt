@@ -1,1 +1,1 @@
-chenyongqing/dify-api:29c646e94f12755f7a4b0298f5df1b424e45265e registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.7.0
+chenyongqing/dify-api:b07f30de7f4122b5d5962e0de285eb8fec06408d registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.7.0
