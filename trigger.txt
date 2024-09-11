@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.7 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-sandbox:0.2.7
+chenyongqing/dify-api:50eefad405dbeee5915939daa3acd0f9835970ad registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.8.0
