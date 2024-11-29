@@ -1,1 +1,1 @@
-xuchengen/rocketmq:5.1.3 registry.cn-hangzhou.aliyuncs.com/chenyq2024/rocketmq:5.1.3
+langgenius/dify-api:0.12.1 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.12.1
