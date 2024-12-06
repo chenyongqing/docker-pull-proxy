@@ -1,1 +1,1 @@
-langgenius/dify-web:0.13.0 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-web:0.13.0
+langgenius/dify-web:0.13.1 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-web:0.13.1
