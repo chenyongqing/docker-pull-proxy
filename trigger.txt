@@ -1,1 +1,1 @@
-jhao104/proxy_pool:latest registry.cn-hangzhou.aliyuncs.com/chenyq2024/jhao104/proxy_pool:latest
+jhao104/proxy_pool:latest registry.cn-hangzhou.aliyuncs.com/chenyq2024/proxy_pool:latest
