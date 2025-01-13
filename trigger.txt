@@ -1,1 +1,1 @@
-jhao104/proxy_pool:latest registry.cn-hangzhou.aliyuncs.com/chenyq2024/proxy_pool:latest
+langgenius/dify-api:0.15.0 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.15.0
