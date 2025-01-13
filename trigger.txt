@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-hangzhou.aliyuncs.com/chenyq2024/redis:6-alpine
+nginx:latest registry.cn-hangzhou.aliyuncs.com/chenyq2024/nginx:latest
