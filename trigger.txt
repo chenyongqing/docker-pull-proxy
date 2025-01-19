@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/chenyq2024/nginx:latest
+mcr.microsoft.com/playwright/python:v1.39.0-focal registry.cn-hangzhou.aliyuncs.com/chenyq2024/playwright/python:v1.39.0-focal
