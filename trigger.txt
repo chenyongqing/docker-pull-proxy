@@ -1,1 +1,1 @@
-mcr.microsoft.com/playwright/python:v1.46.0-noble registry.cn-hangzhou.aliyuncs.com/chenyq2024/playwright/python:v1.39.0-focal
+python:3.10-slim-bookworm registry.cn-hangzhou.aliyuncs.com/chenyq2024/python:3.10-slim-bookworm
