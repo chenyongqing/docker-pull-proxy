@@ -1,1 +1,1 @@
-python:3.10-slim-bookworm registry.cn-hangzhou.aliyuncs.com/chenyq2024/python:3.10-slim-bookworm
+langgenius/dify-api:0.15.3 registry.cn-hangzhou.aliyuncs.com/chenyq2024/dify-api:0.15.3
